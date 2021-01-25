@@ -2,8 +2,8 @@
   "domain": "senec",
   "name": "senec",
   "config_flow": true,
-  "documentation": "https://ithub.com/Bugstehude/home-assistant-senec/blob/master/README.md",
-  "issue_tracker": "https://ithub.com/Bugstehude/home-assistant-senec/issues",
+  "documentation": "https://github.com/Bugstehude/home-assistant-senec/blob/master/README.md",
+  "issue_tracker": "https://github.com/Bugstehude/home-assistant-senec/issues",
   "requirements": [
     "pysenec==0.1.0"
   ],
